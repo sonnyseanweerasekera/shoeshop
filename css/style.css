@@ -1,17 +1,13 @@
 /* ************************************** Utilities Classes ************************************** */
 
-/* .spacing
-    {
-      padding: 7% 15%;
-    } */
 
 
 /* **************************************** Title Section **************************************** */
 
 .logo-img
 {
-    width: 30%;
-    height: 30%;
+    width: 20%;
+    height: 20%;
     border-radius: 100%;
 }
 
@@ -24,17 +20,20 @@
 .navbar
     {
       padding-left: 0;
-      margin-bottom: 50px;
+      margin-bottom: 10px;
     }
 
-.navbar-brand
-    {   
-      font-size: 2.5rem;
-      font-weight: bolder;
-      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-
-.title-info
+.hotdeal-text
     {
-      color: #ffffff;
+
+      color: ivory;
+
+    }
+
+.testimonial-image
+    {
+      margin-top: 5px;
+      height: 75%;
+      width: 75%;
+
     }
