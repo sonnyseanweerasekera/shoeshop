@@ -30,10 +30,66 @@
 
     }
 
-.testimonial-image
+.sliding-image
     {
+
       margin-top: 5px;
       height: 75%;
       width: 75%;
 
     }
+
+/* **************************************** Products Section **************************************** */
+
+#products
+    {
+     
+      background-color: #29282D;
+      padding: 7% 7%;
+      text-align: center;
+
+    }
+
+.products-heading
+    {
+
+      color: #ffffff;
+      font-size: 3rem;
+      font-weight: 400;
+
+    }
+
+.products-info
+    {
+
+      color: #b5b577;      
+      font-size: 1.5rem;
+      font-weight: 200;
+      margin-bottom: 40px;
+
+    }
+
+.card-header
+    {
+
+      color: #ffffff;
+      text-align:center;
+
+    }
+
+.card-image
+    {
+
+      margin: 0px 5px 0px 5px;
+      height: 80%;
+      width: 80%; 
+      text-align: center;
+
+    }
+
+.card-body
+{
+  
+  color: white;
+
+}
